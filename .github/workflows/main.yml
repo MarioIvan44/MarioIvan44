@@ -1,0 +1,20 @@
+name: Waka Readme
+on:
+  schedule:
+    # Se actualiza automáticamente todas las noches a las 12
+    - cron: "0 0 * * *" 
+  workflow_dispatch: # Permite que lo actives manualmente cuando quieras
+jobs:
+  update-readme:
+    name: Actualizar README con WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
