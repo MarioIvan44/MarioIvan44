@@ -5,7 +5,7 @@ Soy Mariolvan
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 25 July 2026
+From: 15 March 2026 - To: 26 July 2026
 
 JavaScript                         45 hrs 40 mins        >>>>>>>>>>>>>>>>>>>>>----   82.77 %
 JSON                               2 hrs 13 mins         >------------------------   04.05 %
