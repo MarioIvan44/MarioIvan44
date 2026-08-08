@@ -5,10 +5,10 @@ Soy Mariolvan
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 06 August 2026
+From: 15 March 2026 - To: 07 August 2026
 
-JavaScript                         45 hrs 48 mins        >>>>>>>>>>>>>>>>>>-------   71.98 %
-Kotlin                             10 hrs 20 mins        >>>>---------------------   16.26 %
+JavaScript                         45 hrs 48 mins        >>>>>>>>>>>>>>>>>>-------   71.91 %
+Kotlin                             10 hrs 25 mins        >>>>---------------------   16.35 %
 JSON                               2 hrs 13 mins         >------------------------   03.51 %
 Bash                               2 hrs 10 mins         >------------------------   03.41 %
 Markdown                           48 mins               -------------------------   01.26 %
