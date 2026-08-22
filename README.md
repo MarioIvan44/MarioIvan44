@@ -20,3 +20,7 @@ C#                                 26 mins               -----------------------
 ```
 
 <!--END_SECTION:waka-->
+
+[![committers.top badge](https://user-badge.committers.top/el_salvador/USERNAME.svg)](https://user-badge.committers.top/el_salvador/USERNAME)
+
+
