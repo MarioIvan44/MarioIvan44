@@ -7,6 +7,7 @@
 <br />
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://mario-cruz-portfolio-five.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/mario-v%C3%A1squez-6a4948346/)
 [![Email](https://img.shields.io/badge/ing.mariodev%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:ing.mariodev@gmail.com)
 ![Abierto a oportunidades](https://img.shields.io/badge/Abierto_a_oportunidades-22d3ee?style=for-the-badge)
 
