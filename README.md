@@ -58,18 +58,18 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 29 September 2026
+From: 15 March 2026 - To: 30 September 2026
 
-JavaScript                         92 hrs 3 mins         >>>>>>>>>>>>>>>----------   60.36 %
-Kotlin                             17 hrs 57 mins        >>>----------------------   11.77 %
-Markdown                           8 hrs 51 mins         >------------------------   05.81 %
-HTML                               8 hrs 24 mins         >------------------------   05.52 %
-Bash                               6 hrs 37 mins         >------------------------   04.34 %
-XML                                5 hrs 48 mins         >------------------------   03.81 %
-JSON                               4 hrs 7 mins          >------------------------   02.71 %
-Other                              3 hrs                 -------------------------   01.98 %
-Git Config                         1 hr 42 mins          -------------------------   01.12 %
-Java Properties                    41 mins               -------------------------   00.46 %
+JavaScript                         92 hrs 14 mins        >>>>>>>>>>>>>>>----------   59.80 %
+Kotlin                             18 hrs 2 mins         >>>----------------------   11.69 %
+Markdown                           8 hrs 58 mins         >------------------------   05.82 %
+HTML                               8 hrs 25 mins         >------------------------   05.46 %
+Bash                               6 hrs 39 mins         >------------------------   04.32 %
+XML                                5 hrs 48 mins         >------------------------   03.76 %
+JSON                               4 hrs 27 mins         >------------------------   02.89 %
+Other                              3 hrs 25 mins         >------------------------   02.22 %
+Git Config                         2 hrs 16 mins         -------------------------   01.48 %
+Java Properties                    41 mins               -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
