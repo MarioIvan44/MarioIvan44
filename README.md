@@ -58,16 +58,16 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 04 October 2026
+From: 15 March 2026 - To: 05 October 2026
 
-JavaScript                         95 hrs 37 mins        >>>>>>>>>>>>>>>----------   60.16 %
-Kotlin                             18 hrs 3 mins         >>>----------------------   11.36 %
-Markdown                           9 hrs 33 mins         >>-----------------------   06.02 %
-HTML                               8 hrs 25 mins         >------------------------   05.30 %
+JavaScript                         95 hrs 37 mins        >>>>>>>>>>>>>>>----------   60.05 %
+Kotlin                             18 hrs 3 mins         >>>----------------------   11.34 %
+Markdown                           9 hrs 33 mins         >>-----------------------   06.01 %
+HTML                               8 hrs 25 mins         >------------------------   05.29 %
 Bash                               6 hrs 56 mins         >------------------------   04.36 %
 XML                                5 hrs 48 mins         >------------------------   03.65 %
-JSON                               4 hrs 50 mins         >------------------------   03.05 %
-Other                              3 hrs 26 mins         >------------------------   02.16 %
+JSON                               4 hrs 50 mins         >------------------------   03.04 %
+Other                              3 hrs 43 mins         >------------------------   02.34 %
 Git Config                         2 hrs 17 mins         -------------------------   01.44 %
 Java Properties                    41 mins               -------------------------   00.44 %
 ```
