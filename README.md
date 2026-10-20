@@ -58,7 +58,7 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 18 October 2026
+From: 15 March 2026 - To: 19 October 2026
 
 JavaScript                         100 hrs 30 mins       >>>>>>>>>>>>>>>----------   60.09 %
 Kotlin                             18 hrs 6 mins         >>>----------------------   10.82 %
