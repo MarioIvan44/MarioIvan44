@@ -19,7 +19,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check WakaTime API availability
+        id: wakatime-check
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "run_update=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          status_code="$(curl -sS -o /dev/null -w "%{http_code}" "https://wakatime.com/api/v1/users/current/status_bar/today?api_key=$WAKATIME_API_KEY" || true)"
+          if [ "$status_code" = "200" ]; then
+            echo "run_update=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_update=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: athul/waka-readme@master
+        if: steps.wakatime-check.outputs.run_update == 'true'
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
