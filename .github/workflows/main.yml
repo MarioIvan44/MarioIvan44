@@ -30,6 +30,7 @@ jobs:
           fi
 
           status_code="$(curl -sS -o /dev/null -w "%{http_code}" "https://wakatime.com/api/v1/users/current/status_bar/today?api_key=$WAKATIME_API_KEY" || true)"
+          echo "WakaTime status code: $status_code"
           if [ "$status_code" = "200" ]; then
             echo "run_update=true" >> "$GITHUB_OUTPUT"
           else
