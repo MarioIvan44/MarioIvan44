@@ -53,27 +53,8 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
   <img src="https://streak-stats.demolab.com?user=MarioIvan44&locale=es&hide_border=true&background=0F172A&stroke=1E293B&ring=22D3EE&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Racha de contribuciones" />
 </p>
 
-### Tiempo programando (WakaTime)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 March 2026 - To: 20 October 2026
-
-JavaScript                         100 hrs 30 mins       >>>>>>>>>>>>>>>----------   59.80 %
-Kotlin                             18 hrs 6 mins         >>>----------------------   10.77 %
-Markdown                           10 hrs 34 mins        >>-----------------------   06.29 %
-HTML                               8 hrs 46 mins         >------------------------   05.22 %
-Bash                               7 hrs 43 mins         >------------------------   04.60 %
-XML                                5 hrs 49 mins         >------------------------   03.46 %
-JSON                               5 hrs 25 mins         >------------------------   03.23 %
-Other                              4 hrs 6 mins          >------------------------   02.45 %
-Git Config                         2 hrs 17 mins         -------------------------   01.36 %
-Java Properties                    41 mins               -------------------------   00.41 %
-```
-
-<!--END_SECTION:waka-->
-
+.. image:: https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/84a18ade-f79a-4c06-bf91-c801bbc51b67.png
+    :target: https://wakatime.com/
 [![committers.top badge](https://user-badge.committers.top/el_salvador/MarioIvan44.svg?)](https://user-badge.committers.top/el_salvador/MarioIvan44)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,40:0e7490,100:0f172a&height=100&section=footer" width="100%" alt="" />
