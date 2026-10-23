@@ -55,7 +55,7 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
 
 <p align="center">
   <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/84a18ade-f79a-4c06-bf91-c801bbc51b67.png" alt="WakaTime stats" />
+    <img src="https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/08abca42-3865-414f-8033-1a16fddf1eb6.svg" alt="WakaTime stats" />
   </a>
 </p>
 
