@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:0e7490,100:22d3ee&height=180&section=header&text=Mario%20Vásquez&fontColor=f8fafc&fontSize=52&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Android%20Developer&descAlignY=56&descSize=18" width="100%" alt="Mario Vásquez — Full-Stack · Android Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:0e7490,100:22d3ee&height=180&section=header&text=Mario%20Vásquez%A1n&fontColor=f8fafc&fontSize=52&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Android%20Developer&descAlignY=56&descSize=18" width="100%" alt="Mario Vásquez — Full-Stack · Android Developer" />
 
 <div align="center">
 
