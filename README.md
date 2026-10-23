@@ -53,8 +53,16 @@ Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Institut
   <img src="https://streak-stats.demolab.com?user=MarioIvan44&locale=es&hide_border=true&background=0F172A&stroke=1E293B&ring=22D3EE&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Racha de contribuciones" />
 </p>
 
-.. image:: https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/84a18ade-f79a-4c06-bf91-c801bbc51b67.png
-    :target: https://wakatime.com/
-[![committers.top badge](https://user-badge.committers.top/el_salvador/MarioIvan44.svg?)](https://user-badge.committers.top/el_salvador/MarioIvan44)
+<p align="center">
+  <a href="https://wakatime.com/">
+    <img src="https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/84a18ade-f79a-4c06-bf91-c801bbc51b67.png" alt="WakaTime stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/el_salvador/MarioIvan44">
+    <img src="https://user-badge.committers.top/el_salvador/MarioIvan44.svg" alt="committers.top badge" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,40:0e7490,100:0f172a&height=100&section=footer" width="100%" alt="" />
