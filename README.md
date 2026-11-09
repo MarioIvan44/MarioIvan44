@@ -15,10 +15,10 @@
 
 ## Sobre mí
 
-Estudiante de **Bachillerato Técnico en Desarrollo de Software** en el Instituto Técnico Ricaldone, El Salvador. Construyo soluciones de extremo a extremo: interfaces con **React + Tailwind**, backends con **Node.js** y **Java/Spring Boot**, y apps nativas para **Android con Kotlin**.
+Próximo a graduarme como **Bachiller Técnico en Desarrollo de Software** del Instituto Técnico Ricaldone, El Salvador. Desarrollo soluciones de software de extremo a extremo: interfaces web con **React + Tailwind CSS**, backends con **Node.js** y **Java/Spring Boot**. Actualmente estoy ampliando mis conocimientos en **Python y Django**. También desarrollo aplicaciones nativas para **Android con Kotlin**.
 
-- Actualmente trabajando en **PackLens**, un sistema de rastreo de paquetes en tiempo real
-- Aprendiendo **React Native** y **Firebase** para apps móviles multiplataforma
+- Actualmente trabajando en Gestión de GG, un sistema para organizar y dar seguimiento al proceso de estudios geotécnicos para la empresa Jupaca Proyecta S.A de C.V, desde la solicitud de una oferta hasta la entrega del informe. El proyecto contempla seguimiento de etapas, plazos y alertas de pendientes.
+- Aprendiendo Python, Django y PostgreSQL para fortalecer mis habilidades en desarrollo backend y gestión de bases de datos.
 - Abierto a prácticas, colaboraciones y proyectos
 - Escríbeme a [ing.mariodev@gmail.com](mailto:ing.mariodev@gmail.com)
 
