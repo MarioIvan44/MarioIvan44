@@ -20,7 +20,7 @@ Próximo a graduarme como **Bachiller Técnico en Desarrollo de Software** del I
 - Actualmente trabajando en Gestión de GG, un sistema para organizar y dar seguimiento al proceso de estudios geotécnicos para la empresa Jupaca Proyecta S.A de C.V, desde la solicitud de una oferta hasta la entrega del informe. El proyecto contempla seguimiento de etapas, plazos y alertas de pendientes.
 - Aprendiendo Python, Django y PostgreSQL para fortalecer mis habilidades en desarrollo backend y gestión de bases de datos.
 - Abierto a prácticas, colaboraciones y proyectos
-- Escríbeme a [ing.mariodev@gmail.com](mailto:ing.mariodev@gmail.com)
+- Escríbeme a [marioivan365@gmail.com](mailto:marioivan365@gmail.com)
 
 ## Tecnologías
 
