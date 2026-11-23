@@ -2,36 +2,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Backends+con+Python,+Django+y+PostgreSQL;Apps+web+con+React+y+Node.js;APIs+REST+con+Java+y+Spring+Boot;Apps+Android+nativas+con+Kotlin;Desde+El+Salvador+para+el+mundo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Construyo+apps+web+con+React+y+Node.js;APIs+REST+con+Java+y+Spring+Boot;Apps+Android+nativas+con+Kotlin;Desde+El+Salvador+para+el+mundo" alt="Typing SVG" />
 
 <br />
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://mario-cruz-portfolio-five.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/mario-v%C3%A1squez-6a4948346/)
 [![Email](https://img.shields.io/badge/marioivan365%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:marioivan365@gmail.com)
-![Abierto a colaboraciones](https://img.shields.io/badge/Abierto_a_colaboraciones-22d3ee?style=for-the-badge)
+![Abierto a oportunidades](https://img.shields.io/badge/Abierto_a_oportunidades-22d3ee?style=for-the-badge)
 
 </div>
 
 ## Sobre mí
 
-**Bachiller Técnico en Desarrollo de Software** graduado del Instituto Técnico Ricaldone, El Salvador. Desarrollo software de extremo a extremo: backends con **Python/Django**, **Node.js** y **Java/Spring Boot**, interfaces web con **React + Tailwind CSS** y apps nativas para **Android con Kotlin**.
+Próximo a graduarme como **Bachiller Técnico en Desarrollo de Software** del Instituto Técnico Ricaldone, El Salvador. Desarrollo soluciones de software de extremo a extremo: interfaces web con **React + Tailwind CSS**, backends con **Node.js** y **Java/Spring Boot**. Actualmente estoy ampliando mis conocimientos en **Python y Django**. También desarrollo aplicaciones nativas para **Android con Kotlin**.
 
-- Desarrollador Full-Stack en **Jupaca Proyecta S.A. de C.V.**, donde colaboro **Gestión GG**: un sistema en Django + PostgreSQL y React que organiza el proceso de estudios geotécnicos, desde la solicitud de la oferta hasta la entrega del informe, con seguimiento de etapas, plazos y alertas de pendientes.
-- **3er lugar en Expo Técnica 2025 y 2026**, dos años seguidos con proyectos para empresas reales.
-- Creador de **[PackLens](https://pack-lens.vercel.app)**, un SaaS de rastreo de entregas en producción.
-- Abierto a colaboraciones y proyectos. Escríbeme a [marioivan365@gmail.com](mailto:marioivan365@gmail.com)
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Gestión GG** · *privado* | Sistema de gestión de estudios geotécnicos para Jupaca Proyecta: expedientes, programación, laboratorio, entrega de informes, alertas y app móvil. | Django · PostgreSQL · React 19 · Vite · Tailwind · Expo |
-| **[PackLens](https://pack-lens.vercel.app)** · *producto propio* | SaaS multi-tenant de rastreo de entregas: dos apps Android (cliente y conductor) con ruta real por calles y ETA, panel web y suscripciones con PayPal. | Kotlin · Retrofit · Google Maps SDK · Node.js · Express · MongoDB |
-| **Jupaca Proyecta RRHH** · *privado* | Sistema de RRHH, nómina y facturación (web + móvil) para una empresa real. Facturas proforma, nómina, reportes, correos y app móvil desde cero. | Node.js · Express · MongoDB · React · React Native |
-| **[ApiTrackline](https://github.com/MarioIvan44/ApiTrackline)** | API REST logística y aduanal para SGL Servicios Globales Logísticos. Proyecto en equipo: desarrollé tablas y CRUDs. 🥉 Expo Técnica 2025. | Java 17 · Spring Boot · Spring Security · JPA · Oracle |
-| **[TrackLine App Routes](https://github.com/MarioIvan44/TracklineAppRoutes)** | App Android que consume ApiTrackline: el transportista traza su ruta y comparte su ubicación; el cliente sigue el viaje en vivo. | Kotlin · Retrofit · OkHttp · Google Maps SDK · OpenRouteService |
-| **Gastos Mensuales** | App de escritorio para controlar gastos personales. Lideré el rediseño de la interfaz en Figma. | C# · WinForms · Figma |
+- Actualmente trabajando en Gestión de GG, un sistema para organizar y dar seguimiento al proceso de estudios geotécnicos para la empresa Jupaca Proyecta S.A de C.V, desde la solicitud de una oferta hasta la entrega del informe. El proyecto contempla seguimiento de etapas, plazos y alertas de pendientes.
+- Aprendiendo Python, Django y PostgreSQL para fortalecer mis habilidades en desarrollo backend y gestión de bases de datos.
+- Abierto a prácticas, colaboraciones y proyectos
+- Escríbeme a [marioivan365@gmail.com](mailto:marioivan365@gmail.com)
 
 ## Tecnologías
 
@@ -42,15 +31,15 @@
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,maven,cs,dotnet&theme=dark" height="40" alt="Python, Django, Node.js, Express, Java, Spring Boot, Maven, C#, .NET" /><br /><sub>Django REST Framework · JWT · Spring Security · JPA</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,cs,dotnet&theme=dark" height="40" alt="Node.js, Express, Java, Spring Boot, Maven, C#, .NET" /><br /><sub>JWT · Spring Security · JPA</sub></td>
   </tr>
   <tr>
     <td align="right"><b>Móvil</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react&theme=dark" height="40" alt="Kotlin, Android Studio, Gradle, React Native" /><br /><sub>Retrofit · Coroutines · Google Maps SDK · React Native / Expo</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react&theme=dark" height="40" alt="Kotlin, Android Studio, Gradle, React Native" /><br /><sub>Jetpack Compose · Retrofit · Google Maps SDK · React Native</sub></td>
   </tr>
   <tr>
     <td align="right"><b>Datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase&theme=dark" height="40" alt="PostgreSQL, Supabase, MongoDB, Firebase" /><br /><sub>Oracle · SQL Server</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" height="40" alt="MongoDB, Firebase" /><br /><sub>Oracle · SQL Server</sub></td>
   </tr>
   <tr>
     <td align="right"><b>Herramientas</b></td>
@@ -65,7 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/08abca42-3865-414f-8033-1a16fddf1eb6.svg" width="600" alt="WakaTime stats" />
+  <div style="overflow: hidden; height: 180px; width: 100%; max-width: 600px; margin: 0 auto;">
+    <img src="https://wakatime.com/share/@ea1737e2-46f5-4c1a-b75b-31ea28ed0e1c/08abca42-3865-414f-8033-1a16fddf1eb6.svg" style="margin-top: -30px; width: 100%;" alt="WakaTime stats" />
+  </div>
 </p>
 
 <p align="center">
