@@ -29,9 +29,9 @@
 | **Gestión GG** · *privado* | Sistema de gestión de estudios geotécnicos para Jupaca Proyecta: expedientes, programación, laboratorio, entrega de informes, alertas y app móvil. | Django · PostgreSQL · React 19 · Vite · Tailwind · Expo |
 | **[PackLens](https://pack-lens.vercel.app)** · *producto propio* | SaaS multi-tenant de rastreo de entregas: dos apps Android (cliente y conductor) con ruta real por calles y ETA, panel web y suscripciones con PayPal. | Kotlin · Retrofit · Google Maps SDK · Node.js · Express · MongoDB |
 | **Jupaca Proyecta RRHH** · *privado* | Sistema de RRHH, nómina y facturación (web + móvil) para una empresa real. Facturas proforma, nómina, reportes, correos y app móvil desde cero. | Node.js · Express · MongoDB · React · React Native |
-| **[ApiTrackline](https://github.com/MarioIvan44/ApiTrackline)** | API REST logística y aduanal para SGL Servicios Globales Logísticos. Proyecto en equipo: desarrollé tablas y CRUDs. 🥉 Expo Técnica 2025. | Java 17 · Spring Boot · Spring Security · JPA · Oracle |
+| **[ApiTrackline](https://github.com/MarioIvan44/ApiTrackline)** | API REST logística y aduanal para SGL Servicios Globales Logísticos. Proyecto en equipo: desarrollé tablas y CRUDs. | Java 17 · Spring Boot · Spring Security · JPA · Oracle |
 | **[TrackLine App Routes](https://github.com/MarioIvan44/TracklineAppRoutes)** | App Android que consume ApiTrackline: el transportista traza su ruta y comparte su ubicación; el cliente sigue el viaje en vivo. | Kotlin · Retrofit · OkHttp · Google Maps SDK · OpenRouteService |
-| **Gastos Mensuales** | App de escritorio para controlar gastos personales. Lideré el rediseño de la interfaz en Figma. | C# · WinForms · Figma |
+| **Gastos Mensuales** | App de escritorio para controlar gastos personales. | C# · WinForms |
 
 ## Tecnologías
 
